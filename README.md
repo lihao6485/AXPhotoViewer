@@ -1,6 +1,3 @@
-# This project is unmaintained.
-## Alex passed away in an accident in late 2019. His love of iOS development will always be remembered.
-
 # AXPhotoViewer [![Build Status](https://travis-ci.org/alexhillc/AXPhotoViewer.svg?branch=master)](https://travis-ci.org/alexhillc/AXPhotoViewer)
 
 <p align="center">
